@@ -1,0 +1,45 @@
+{
+    "category":[
+        {
+            "id":1,
+            "category":"Flights"
+        
+        },
+        {
+            "id":2,
+            "category":"Hotels"
+        
+        },
+        {
+            "id":3,
+            "category":"Homestays"
+        
+        },
+        {
+            "id":4,
+            "category":"Buses"
+        
+        },
+        {
+            "id":5,
+            "category":"Cabs"
+        
+        },
+        {
+            "id":6,
+            "category":"Holidays"
+        
+        },
+        {
+            "id":7,
+            "category":"Trains"
+        
+        },
+        {
+            "id":8,
+            "category":"Activities"
+        
+        }
+
+    ]
+}
